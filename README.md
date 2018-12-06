@@ -1,9 +1,9 @@
 # Test-mXParser---Windows-App
-A test Project just for understanding how mXparser Work
+A test Project just for understanding how mXparser Work <br/><br/>
 
-Using:
--Argumants (define yourself argumants)
--Expressions (define yourself expressions)
--Functions (define yourself functions)
--and some operators (you are free to add more operator)
+Using:<br/>
+-Argumants (define yourself argumants) <br/>
+-Expressions (define yourself expressions) <br/>
+-Functions (define yourself functions) <br/>
+-and some operators (you are free to add more operator) <br/>
 
